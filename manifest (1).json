@@ -1,0 +1,12 @@
+{
+    "display_name": "Lorebinder",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Ayrissa",
+    "version": "1.0.2",
+    "homePage": "https://github.com/Ayrissa/Lorebinder",
+    "auto_update": true
+}
